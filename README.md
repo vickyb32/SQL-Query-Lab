@@ -32,28 +32,26 @@ Step 4:  <br/>
 <br />
 <br />
 Step 5:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QEOYiHn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step 6:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qTRvQlD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step 7:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oJ7X4io.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step 8:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kkiDmBp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  Step 9:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/z05NG0Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
